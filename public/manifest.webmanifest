@@ -1,0 +1,10 @@
+{
+  "name": "FinPlay",
+  "short_name": "FinPlay",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6faf8",
+  "theme_color": "#12a594",
+  "description": "Gamified financial literacy for everyday life.",
+  "icons": []
+}
